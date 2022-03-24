@@ -13,3 +13,4 @@ branch dev add
 Hello, Git! ---dev
 Hello, Git! ---dev
 Hello, Git! ---master  branch master changed
+Hello, Git! ---dev branch dev change nothing
