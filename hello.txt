@@ -14,3 +14,9 @@ Hello, Git! ---dev
 Hello, Git! ---dev
 Hello, Git! ---master  branch master changed
 Hello, Git! ---dev branch dev change nothing
+
+this line changed in the Edge browser
+this line changed in the Edge browser
+this line changed in the Edge browser
+this line changed in the Edge browser
+this line changed in the Edge browser
